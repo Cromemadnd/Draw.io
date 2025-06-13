@@ -55,7 +55,7 @@
             <mxPoint x="-5" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FJN4-35jgTs4fs4E5eGO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-11" target="FJN4-35jgTs4fs4E5eGO-18">
+        <mxCell id="FJN4-35jgTs4fs4E5eGO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;startArrow=classic;startFill=1;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-11" target="FJN4-35jgTs4fs4E5eGO-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJN4-35jgTs4fs4E5eGO-24" value="MongoDriver" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" connectable="0" parent="FJN4-35jgTs4fs4E5eGO-21">
@@ -63,13 +63,13 @@
             <mxPoint y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FJN4-35jgTs4fs4E5eGO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-27" target="FJN4-35jgTs4fs4E5eGO-11">
+        <mxCell id="FJN4-35jgTs4fs4E5eGO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;startArrow=classic;startFill=1;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-27" target="FJN4-35jgTs4fs4E5eGO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJN4-35jgTs4fs4E5eGO-27" value="设备&lt;br&gt;（桌面端模拟程序）&lt;br&gt;Python + Requests" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="120" y="620" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FJN4-35jgTs4fs4E5eGO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-28">
+        <mxCell id="FJN4-35jgTs4fs4E5eGO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;startArrow=classic;startFill=1;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="510" as="targetPoint" />
           </mxGeometry>
@@ -77,7 +77,7 @@
         <mxCell id="FJN4-35jgTs4fs4E5eGO-28" value="设备&lt;br&gt;（桌面端模拟程序）&lt;br&gt;Python + Requests" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
           <mxGeometry x="300" y="620" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FJN4-35jgTs4fs4E5eGO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-29" target="FJN4-35jgTs4fs4E5eGO-11">
+        <mxCell id="FJN4-35jgTs4fs4E5eGO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;startArrow=classic;startFill=1;" edge="1" parent="1" source="FJN4-35jgTs4fs4E5eGO-29" target="FJN4-35jgTs4fs4E5eGO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FJN4-35jgTs4fs4E5eGO-36" value="API接口&lt;br&gt;上传JSON格式环境数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" connectable="0" parent="FJN4-35jgTs4fs4E5eGO-35">
